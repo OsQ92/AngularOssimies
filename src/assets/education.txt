@@ -1,0 +1,25 @@
+<h1>Harrastukset</h1>
+<h2>3D-mallinnus<h2>
+
+<p>Mallinnusohjelmista Blender on tutuin. Syksyllä 2019 rakentelin Blenderillä
+ 2DIN kehyksen autoradioon <a href="https://www.thingiverse.com/thing:4000208">linkki</a>. 
+Yksinkertaiset mittatarkat mallit onnistuu. Pikanäppäimet tuppaa unohtumaan.</p>
+
+<h2>Unraid-palvelin<h2>
+<h3>Speksit</h3>
+<ul style="list-style: none">
+	<li>Intel 3570K</li>
+	<li>2400MHz 16Gt-DDR3</li>
+	<li>Asrock Extreme4</li>
+	<li>Hauppauge WinTV-quadhd</li>
+	<li>Tallennustilaa: 8Tt</li>
+<ul>
+<app-gallery></app-gallery>
+<p>Palvelimen alkuperäinen käyttötarkoitus mediapalvelimena, 
+tarvittaessa Dockereilla laajennettavissa.</p>
+<h3>Plex-mediapalvelin</h3>
+<p>Plex on mediapalvelin, jolla pääsee katselemaan omia TV- ja elokuvakokoelmia internetin yli. 
+Myös TV-suoratoisto on tuettu.</p>
+<h3>TVHeadend ja Telly</h3>
+<p>Vaikka Plex tukeekin TV-viritinkortteja suoraan, se ei ole toimintavarma. Tallennus toimii, suoratoisto ei aina.
+Ongelman kiertämiseksi viritinkortin toiminnasta huolehtii TVHeadend. Telly Docker toimii paikallisena IPTV proxy-palvelimena Plex:in ja TVHeadendin välillä.</p>
