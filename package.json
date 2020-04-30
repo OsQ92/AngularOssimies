@@ -27,7 +27,7 @@
     "angular-webstorage-service": "^1.0.2",
     "core-js": "^2.6.11",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ngx-gallery": "^5.10.0",
     "rxjs": "^6.5.4",
     "tree-kill": "^1.2.2",
